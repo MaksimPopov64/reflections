@@ -9,3 +9,7 @@ I don't know.ye
 How can you use the staging area to make sure you have one commit per logical change? 
 
 I can try git diff
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another? 
+
+Forks copies the existent reppository to my account.Clones copies on local machine, Brancher makes a new version of programm
